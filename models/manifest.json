@@ -1,0 +1,554 @@
+{
+  "formatVersion": 1,
+  "source": {
+    "xapk": "unscrew-frenzy-3d-2.4.6-local-arm64.xapk",
+    "xapkSha256": "a6e5e60d0e9a6e3fff95ec8ca510343a77fd24f426bfadfbc5f4c512c37fb1e3",
+    "apkEntry": "com.kiwifun.game.android.screw.master.apk",
+    "apkSha256": "130ca8c6939c9b743fa66fc05e9c1def8762ec0a97c56814b809915dcfcdb48e",
+    "unityVersion": "6000.3.20f1"
+  },
+  "coordinates": {
+    "handedness": "right",
+    "normalization": "Mesh and screw coordinates share a centered bounding sphere of radius 2; Unity Z is mirrored and triangle winding reversed.",
+    "precisionDecimalPlaces": 5
+  },
+  "rendering": "Original triangle meshes, normals, shell hierarchy, material base colors, referenced base-map textures, UVs and screw anchors; Unity shader effects are not reproduced.",
+  "models": [
+    {
+      "id": "icecream_01",
+      "file": "icecream_01.json",
+      "sha256": "2afacb546bdbe3fceb176c5e0be5446fdcba152bbfb0ede7cfbaa518b744779e",
+      "bytes": 132192,
+      "meshCount": 4,
+      "screwCount": 9,
+      "vertices": 2324,
+      "triangles": 1764,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/DQgKCRcKBhs3RVg3XQ",
+        "encryptedSha256": "657d82a29289461efa8d0c964bd70ec41e55fbc7c683e17c7f68e40b5d6381fd",
+        "decryptedSha256": "10bd706ca5303c8f31f23ef838c5fe10d61c95aeae79e3c17970a9924da8d636",
+        "prefabPath": "assets/modelobjects/icecream_01/prefab/icecream_01.prefab",
+        "prefabPathId": "6357177623335209908",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 0,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 0.0,
+        "surfaceMaxDistance": 8.704534810659605e-06,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "cheess_02",
+      "file": "cheess_02.json",
+      "sha256": "5ad60b08deec1db5fd2272e03d8a2cc9acd74c7837c595285718cc66467e8181",
+      "bytes": 316063,
+      "meshCount": 25,
+      "screwCount": 42,
+      "vertices": 4985,
+      "triangles": 5594,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/BwMKDxYcOEZaKls",
+        "encryptedSha256": "9bf38c2e2ab3e486c30a3bcedacce4181531b9bae5efd922c5e4eceae50136a5",
+        "decryptedSha256": "aae8ea6c80c20a9ec442cb86360ba3d0726d6254d9ea97f71ce8cb013d67104f",
+        "prefabPath": "assets/modelobjects/cheess_02/prefab/cheess_02.prefab",
+        "prefabPathId": "1029541591693767182",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 1,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 3.4868920803412574e-06,
+        "surfaceMaxDistance": 1.299119445985257e-05,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "ring_02",
+      "file": "ring_02.json",
+      "sha256": "9f78de2019d2161dbcac99d95a7289b3504ab07b2ed7b81c689ed3fffe10bd76",
+      "bytes": 255581,
+      "meshCount": 27,
+      "screwCount": 54,
+      "vertices": 3546,
+      "triangles": 6404,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/FgIBDTpfVSla",
+        "encryptedSha256": "e7e7fddb0f2516cf682e0a9ff36a2dab4979bf480fc8bcc7211ae66b34d791bc",
+        "decryptedSha256": "4f716fd400f3876eaa6d16aeb0f488617cf4f59ae61ab26cfbbb1251297a78f8",
+        "prefabPath": "assets/modelobjects/ring_02/prefab/ring_02.prefab",
+        "prefabPathId": "-906124080291740459",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 2,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 2.3528676442579384e-06,
+        "surfaceMaxDistance": 8.990933280004424e-06,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "sashimi_01",
+      "file": "sashimi_01.json",
+      "sha256": "c51060c88fce0cacff98dbdb5c4f3e3a2992ce7cbe323c5fb5668f3e9adab1ee",
+      "bytes": 469463,
+      "meshCount": 34,
+      "screwCount": 72,
+      "vertices": 6930,
+      "triangles": 9296,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_2/allpack/pack_0/modelobjects/FwocAgwCDilYRDZY",
+        "encryptedSha256": "fda7e8847802b65dd775bf8e976f3f0786268b60d0ed8035da8b789ac0c1e01a",
+        "decryptedSha256": "73afca16bb53ed3315143d615c241bcc8520641ab17cbd6755cb5f11191ff267",
+        "prefabPath": "assets/modelobjects/sashimi_01/prefab/sashimi_01.prefab",
+        "prefabPathId": "5600626758600278541",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_2/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43XT5ELFU",
+        "levelRecordId": 3,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 2.233679419688522e-06,
+        "surfaceMaxDistance": 0.03398576920854072,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "christmas_cookies_01",
+      "file": "christmas_cookies_01.json",
+      "sha256": "c88cdde48b98bdc634c3192b0a0c20eefc5dd7d8aece0ba5732b8263691e8d33",
+      "bytes": 955594,
+      "meshCount": 39,
+      "screwCount": 75,
+      "vertices": 14374,
+      "triangles": 18738,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/BwMdAxYbChcbKgoHAAodFhY3SVQ7Qg",
+        "encryptedSha256": "800bbdde8ad1dd30fd7731db572e73d7a574a337fc570b414a0cf2247006d459",
+        "decryptedSha256": "e2e3fa442b1fd23dbfe90fcf8165a31b8b7d0c6aa37a2a0f269c95c0e3610325",
+        "prefabPath": "assets/modelobjects/christmas_cookies_01/prefab/christmas_cookies_01.prefab",
+        "prefabPathId": "-6017135166909739949",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 3,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 2.7895524923968828e-06,
+        "surfaceMaxDistance": 0.0004439037406609275,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "airplane_01",
+      "file": "airplane_01.json",
+      "sha256": "5914768a081274547aecc75ee6e0e09b262d2f388ee6f543630ccf9d5092a413",
+      "bytes": 815722,
+      "meshCount": 51,
+      "screwCount": 75,
+      "vertices": 12441,
+      "triangles": 15242,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/BQIdGgkOCRM3RVg3XQ",
+        "encryptedSha256": "82965be2bff68ae86e40bacd1f26c0b5d7c74e4be1dfbabdb33dd97f15ebe352",
+        "decryptedSha256": "9a35b75f7031552c7fbe1263933b84adaf278de351d5299cc24023bf5375bfc7",
+        "prefabPath": "assets/modelobjects/airplane_01/prefab/airplane_01.prefab",
+        "prefabPathId": "6618129389764261145",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 11,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 2.714985659194806e-06,
+        "surfaceMaxDistance": 5.894119011690226e-05,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "penguin_02",
+      "file": "penguin_02.json",
+      "sha256": "97908f0ccc36e74e3ee6520d48b0403f5fe75b7b861a96dfb637d7543ba702c3",
+      "bytes": 346979,
+      "meshCount": 29,
+      "screwCount": 81,
+      "vertices": 4921,
+      "triangles": 7432,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/FA4BDRAGCSlYRzZa",
+        "encryptedSha256": "6022669c3fc64d853068034602292684ac65b83f9b5a6613ffb4dea57a7bc5b0",
+        "decryptedSha256": "a53b1db301929594b011ef758919a6f7b353a3563720848a58d8bcf98a0b03d2",
+        "prefabPath": "assets/modelobjects/penguin_02/prefab/penguin_02.prefab",
+        "prefabPathId": "8826586799706347146",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 5,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 2.576959301434345e-06,
+        "surfaceMaxDistance": 1.0444167636965633e-05,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "camera_03",
+      "file": "camera_03.json",
+      "sha256": "360a755c4da387266834f3c057fc3031d88ba9ffee7aede800d9e9cb4cdc93a7",
+      "bytes": 375891,
+      "meshCount": 39,
+      "screwCount": 81,
+      "vertices": 5847,
+      "triangles": 6380,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/BwoCDxcOOEZbKlo",
+        "encryptedSha256": "64168c70077214abd6ab0fb2740635aeba9b98461b425bfb0500fcde41f289bf",
+        "decryptedSha256": "2831160ba372edc9b9bd7597b934436c60f91bc1ac151996b7cf38ea5fc14b88",
+        "prefabPath": "assets/modelobjects/camera_03/prefab/camera_03.prefab",
+        "prefabPathId": "8305880074995427301",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 7,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 0.0,
+        "surfaceMaxDistance": 1.0979510923025167e-05,
+        "surfaceMissedScrewIds": []
+      },
+      "textures": [
+        {
+          "file": "camera_03-camera_03_001.png",
+          "sha256": "dcaceebb4ed22d1ee766d46535739ded7624f23577784176c9724e3eb87c4464",
+          "bytes": 24392,
+          "sourceTexturePathId": "-5942186816586004755",
+          "sourceTextureName": "camera_03_001",
+          "width": 256,
+          "height": 256,
+          "sourceBundleEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/BwoCDxcOOEZbKlo"
+        }
+      ]
+    },
+    {
+      "id": "swimming_ring_02",
+      "file": "swimming_ring_02.json",
+      "sha256": "0a36f0dc016185adec00187f67b99712b501ed0943510797911a331263ec4461",
+      "bytes": 548272,
+      "meshCount": 37,
+      "screwCount": 81,
+      "vertices": 8296,
+      "triangles": 10094,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_1/modelobjects/FxwGBwgGCRE3BwAGCD5EQTpa",
+        "encryptedSha256": "2aa17c8e64e8712b6868e2a6d89870a2aed2e0bbd87c26213bc3ea7273a556f1",
+        "decryptedSha256": "3ce81b385572a69c4d844c074eda10af522f603d5cb0ad7d520964c5eff6c622",
+        "prefabPath": "assets/modelobjects/swimming_ring_02/prefab/swimming_ring_02.prefab",
+        "prefabPathId": "-1659214833201394291",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_1/gamelevels/CA4ZDwkMCBgOHA43Xz5FLFQ",
+        "levelRecordId": 49,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 2.961751029512627e-06,
+        "surfaceMaxDistance": 1.3123390481349538e-05,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "chopper_01",
+      "file": "chopper_01.json",
+      "sha256": "3ec438434df0fbeb2a2f7784dc54412f88d29afb373c0d4c8ffea36a45ec5bcb",
+      "bytes": 1122083,
+      "meshCount": 55,
+      "screwCount": 84,
+      "vertices": 16844,
+      "triangles": 22182,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/BwMAGhUKFSlYRDZa",
+        "encryptedSha256": "fdfb7faf82cfb8e13db54bcab61a31da05baf8d174303d1d1dbd1c8e3fbf9453",
+        "decryptedSha256": "3e0bd5c4382eb7ac3d977fea61580ff4bf016ea43468c5b9d020f54789a1e98d",
+        "prefabPath": "assets/modelobjects/chopper_01/prefab/chopper_01.prefab",
+        "prefabPathId": "-6426529095495798661",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 9,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 2.889365178803309e-06,
+        "surfaceMaxDistance": 1.044622392955381e-05,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "hot_pot_01",
+      "file": "hot_pot_01.json",
+      "sha256": "f8fce26f43e167104fc6d343180d513b8eca9c89be77a76b5f9046c1fb6bf21c",
+      "bytes": 477324,
+      "meshCount": 42,
+      "screwCount": 84,
+      "vertices": 7096,
+      "triangles": 9586,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/DAQbNRUAEylYRDZa",
+        "encryptedSha256": "dda90a03e69b081d940e7623a214825bb4969f10a98e11708d82dad2dc6b2999",
+        "decryptedSha256": "a2a55c8aba8572302ab23b6b33837b5ab448cfb215a46f354723ebe419fcdb3b",
+        "prefabPath": "assets/modelobjects/hot_pot_01/prefab/hot_pot_01.prefab",
+        "prefabPathId": "-2370231042720078162",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 12,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 2.796837766904743e-06,
+        "surfaceMaxDistance": 1.0858942952642059e-05,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "musical_box_01",
+      "file": "musical_box_01.json",
+      "sha256": "47d642c8b28adfb7233b9e2ff416ab377c40b1942af9e9eb1b713b7fcd18f311",
+      "bytes": 492186,
+      "meshCount": 51,
+      "screwCount": 84,
+      "vertices": 7549,
+      "triangles": 8350,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/CR4cAwYOCykKGhE3X1ArQA",
+        "encryptedSha256": "fe88425facf8b2136c009053530a32d57914e6622b8f8e77e80f7fc261c73662",
+        "decryptedSha256": "fba079b74d7448eb75a0b2a4e99aa36604b421dc03d035e1a3ddddf7ab9ca636",
+        "prefabPath": "assets/modelobjects/musical_box_01/prefab/musical_box_01.prefab",
+        "prefabPathId": "-4854883704647578441",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 21,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 1.8240055713506121e-06,
+        "surfaceMaxDistance": 7.674529488005725e-06,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "coffee_maker_01",
+      "file": "coffee_maker_01.json",
+      "sha256": "9e12de000cc15e1806ef926420c0203639835eadeb169b433a230b17ddcf7ec0",
+      "bytes": 538517,
+      "meshCount": 58,
+      "screwCount": 84,
+      "vertices": 8514,
+      "triangles": 8658,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_1/modelobjects/BwQJDAAKOBsJHgwaMFFFLFY",
+        "encryptedSha256": "973c39875096c59129c632bf3ba83a9a25cef2ff44a72087b19ff3d5b8fb644d",
+        "decryptedSha256": "10b22262dd7dfb21f35aa0b7526547d0ca70b357682fc2f14abd6df995a5c309",
+        "prefabPath": "assets/modelobjects/coffee_maker_01/prefab/coffee_maker_01.prefab",
+        "prefabPathId": "3039637670649338765",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_1/gamelevels/CA4ZDwkMCBgOHA43Xz5FLFQ",
+        "levelRecordId": 37,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 1.6959752356174036e-06,
+        "surfaceMaxDistance": 8.703531188943381e-06,
+        "surfaceMissedScrewIds": []
+      },
+      "textures": [
+        {
+          "file": "coffee_maker_01-coffee_maker_01_001.png",
+          "sha256": "a96ab96af0f84fe08ee45636b726c4f4d947a885154d4ce2002ad5cab6cee3b6",
+          "bytes": 7323,
+          "sourceTexturePathId": "5239514944274588398",
+          "sourceTextureName": "coffee_maker_01_001",
+          "width": 256,
+          "height": 256,
+          "sourceBundleEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_1/modelobjects/BwQJDAAKOBsJHgwaMFFFLFY"
+        }
+      ]
+    },
+    {
+      "id": "crown_01",
+      "file": "crown_01.json",
+      "sha256": "0b108e17c43e1b8e1fbe5b4daeba6df2f996ce0fe668296f01bd16c6a38ce60a",
+      "bytes": 576936,
+      "meshCount": 46,
+      "screwCount": 87,
+      "vertices": 8737,
+      "triangles": 11114,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/BxkAHQswV0c3Rw",
+        "encryptedSha256": "d5e39c14b64b29c8724266f2c2200b7085edd281b74b8c80cd0508093179aa87",
+        "decryptedSha256": "83461e77c5711f966d5c4f79af78d4199d3105d06ffd2e70130dfb9878d83eb5",
+        "prefabPath": "assets/modelobjects/crown_01/prefab/crown_01.prefab",
+        "prefabPathId": "790724882189901770",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 4,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 2.39002880009571e-06,
+        "surfaceMaxDistance": 0.007633927030993228,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "toaster_02",
+      "file": "toaster_02.json",
+      "sha256": "ce82067d984f3f2ccbe3e663d0ffca318b36b17b8f24f881826e3665c1546c9f",
+      "bytes": 886317,
+      "meshCount": 43,
+      "screwCount": 87,
+      "vertices": 14269,
+      "triangles": 15283,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/EAQOGREKFSlYRzZa",
+        "encryptedSha256": "e8e1fe4427f613795735ca1150559eef381f8c63b225fbdfba61164e57a0ba7c",
+        "decryptedSha256": "0e899daf7b196b3d092b3078547ea86986136008281f99475a657d97a0318521",
+        "prefabPath": "assets/modelobjects/toaster_02/prefab/toaster_02.prefab",
+        "prefabPathId": "-4379030465271448619",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 13,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 9.973512600286485e-07,
+        "surfaceMaxDistance": 0.007393006784391357,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "maneki_neko_01",
+      "file": "maneki_neko_01.json",
+      "sha256": "b829896fd7fd0964d1270639fd06022d642f6bb591bbf2771655971dfb4e62b6",
+      "bytes": 632969,
+      "meshCount": 43,
+      "screwCount": 90,
+      "vertices": 9892,
+      "triangles": 9950,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/CQoBDw4GOBgNHgY3X1ArQQ",
+        "encryptedSha256": "2865236064045c0e5a8312e3421756d936254305a2fc83637604d9718d6d503f",
+        "decryptedSha256": "ad0d44c2cac0f7bab410051f8a038ce4c849ec22535528aed6201b1bb65038fa",
+        "prefabPath": "assets/modelobjects/maneki_neko_01/prefab/maneki_neko_01.prefab",
+        "prefabPathId": "-574118916372619181",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 8,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 2.8488438499415884e-06,
+        "surfaceMaxDistance": 1.0122174782836134e-05,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "shark_02",
+      "file": "shark_02.json",
+      "sha256": "a676f2456e1d8fb981e8a79b1c3605a45814835bd997d917b29467f618327e15",
+      "bytes": 500976,
+      "meshCount": 41,
+      "screwCount": 90,
+      "vertices": 7481,
+      "triangles": 8750,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_1/modelobjects/FwMOGA4wV0Q3Rw",
+        "encryptedSha256": "8d96f3a38bfda36bbb6b2b34b8f5c99f058e2befe924aee25cd4434fdfc32361",
+        "decryptedSha256": "0ddc3c0a468d3c2325711a579376775104ea1d2ddc3071c471655f20c3ac4dd4",
+        "prefabPath": "assets/modelobjects/shark_02/prefab/shark_02.prefab",
+        "prefabPathId": "292444628929849733",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_1/gamelevels/CA4ZDwkMCBgOHA43Xz5FLFQ",
+        "levelRecordId": 27,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 2.5613145437682892e-06,
+        "surfaceMaxDistance": 1.0132577614062433e-05,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "wash_basin_01",
+      "file": "wash_basin_01.json",
+      "sha256": "c415e8042525d4c8c95e82beaea653717310b51309586ed87f00e1a8604cafe8",
+      "bytes": 644035,
+      "meshCount": 39,
+      "screwCount": 90,
+      "vertices": 9957,
+      "triangles": 11493,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_1/modelobjects/EwocAjoNBgUBGzZYXj5G",
+        "encryptedSha256": "a7468b68c24b3592a4e346e534394e8dc972fe431faab69a4a4bcba5cdc5a010",
+        "decryptedSha256": "37e6b34259210443edec89cb6c1df7be186c5d5fa6f8f8416b4e5533ddb18539",
+        "prefabPath": "assets/modelobjects/wash_basin_01/prefab/wash_basin_01.prefab",
+        "prefabPathId": "8458103987444967124",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_1/gamelevels/CA4ZDwkMCBgOHA43Xz5FLFQ",
+        "levelRecordId": 47,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 5.038202902665298e-07,
+        "surfaceMaxDistance": 0.02049577753329437,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "oven_chicken_01",
+      "file": "oven_chicken_01.json",
+      "sha256": "193a585b13148fbddc3e2a5a1c90296e3ece9d1f417489b2e6f0b47c230eee91",
+      "bytes": 553627,
+      "meshCount": 40,
+      "screwCount": 93,
+      "vertices": 8474,
+      "triangles": 10708,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/Cx0KBDoMDx8LHgwGMFFFLFc",
+        "encryptedSha256": "c5d25a98d082af7a6b4f8a8567845bedbc603942dcee281c9ae5f6e515ed752a",
+        "decryptedSha256": "facb08eb4066562cd1bed85e5ceaafdd20741f00213ad5c5b2ee117c171ad1ff",
+        "prefabPath": "assets/modelobjects/oven_chicken_01/prefab/oven_chicken_01.prefab",
+        "prefabPathId": "-4675560923248246203",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 6,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 0.0,
+        "surfaceMaxDistance": 9.999999999843467e-06,
+        "surfaceMissedScrewIds": []
+      }
+    },
+    {
+      "id": "otter_01",
+      "file": "otter_01.json",
+      "sha256": "0a6b9325d5050bf99f00670d70e8d5ff9aac942b23df64a5fe755137f98e6b9a",
+      "bytes": 520920,
+      "meshCount": 39,
+      "screwCount": 93,
+      "vertices": 7537,
+      "triangles": 10184,
+      "source": {
+        "apkEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/Cx8bDxcwV0c3Rg",
+        "encryptedSha256": "4bf0858e24f6142864030a0cf5dd0819c0f74e99791725777a8c274b25cceee3",
+        "decryptedSha256": "c6d21b0df671806af31b01cc4bb53c2d62db5f7b7df0b4fdbaef537cf705db2a",
+        "prefabPath": "assets/modelobjects/otter_01/prefab/otter_01.prefab",
+        "prefabPathId": "1467933762795279439",
+        "levelEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/gamelevels/CA4ZDwkMCBgOHA43Xz5ELFQ",
+        "levelRecordId": 10,
+        "unityVersion": "6000.3.20f1"
+      },
+      "validation": {
+        "surfaceMedianDistance": 2.7196447867604986e-06,
+        "surfaceMaxDistance": 1.185879128673405e-05,
+        "surfaceMissedScrewIds": []
+      },
+      "textures": [
+        {
+          "file": "otter_01-otter_01_001.png",
+          "sha256": "bbe0a4c97b30fbd6f44b8705dfb16e252f595a1018d539b9b6dbe43317a2ccd1",
+          "bytes": 35112,
+          "sourceTexturePathId": "5176817105607612114",
+          "sourceTextureName": "otter_01_001",
+          "width": 256,
+          "height": 256,
+          "sourceBundleEntry": "assets/AssetBundles/leveldatas/group_0/allpack/pack_0/modelobjects/Cx8bDxcwV0c3Rg"
+        }
+      ]
+    }
+  ]
+}
